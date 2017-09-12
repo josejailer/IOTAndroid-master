@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IOTandroid</string>
+    <string name="nombre_usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrar">Registrar</string>
+    <string name="ingreso">Click en Ingresar</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="nombres_apellidos">Nombres y Apellidos</string>
+    <string name="tienes_usuario">Ya tienes un usuario</string>
+    <string name="correo_electronico">Correo Electronico</string>
+
+    <string name="sala">Sala</string>
+    <string name="Habitacion">Habitación</string>
+    <string name="cocina">Cocina</string>
+    <string name="bano">Baño</string>
+
+
+</resources>

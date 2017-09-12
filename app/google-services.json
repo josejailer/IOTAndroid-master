@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "125562020384",
+    "firebase_url": "https://androiducc-caa4c.firebaseio.com",
+    "project_id": "androiducc-caa4c",
+    "storage_bucket": "androiducc-caa4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125562020384:android:d9d39103885161de",
+        "android_client_info": {
+          "package_name": "co.edu.ucc.iotandroid1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125562020384-c2ov8bhkvd92ghkt9eud8m1abrdeog6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.ucc.iotandroid1",
+            "certificate_hash": "a9e023b838d6a922dbe4bc37ce09033defe12c16"
+          }
+        },
+        {
+          "client_id": "125562020384-6f16m8m65v7bc7lqmf35er8m3jbsce6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.ucc.iotandroid1",
+            "certificate_hash": "f4e25cc6f492af7fc2309b5c2405a0e641f7e20c"
+          }
+        },
+        {
+          "client_id": "125562020384-fe557bvf1j7cbhucq6oskidlr7egjt8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB93GtumudO-466uL-sIRaW1tfIXqUSaAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125562020384-fe557bvf1j7cbhucq6oskidlr7egjt8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
